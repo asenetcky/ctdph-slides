@@ -4,7 +4,7 @@ author: author
 date: "2001-01-01"
 title-slide-attributes:
   data-background-image: dph_logo_horizontal_white.png
-  data-background-size: 30%
+  data-background-size: 15%
   data-background-position: center bottom
   data-background-color: "#3371E7"
   data-footer: false
